@@ -39,7 +39,7 @@ $db->addServer(array (
   'host' => 'sql.freedb.tech',
   'user' => 'freedb_ahuang',
   'password' => 'v6GxVbG!PMj6z6x',
-  'charset' => 'utf8mb4',
+  'charset' => 'utf8',
   'port' => '3306',
   'database' => 'freedb_123456',
   'engine' => 'MyISAM',
