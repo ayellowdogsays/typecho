@@ -39,7 +39,7 @@ $db->addServer(array (
   'host' => '',
   'user' => '',
   'password' => '',
-  'charset' => '',
+  'charset' => 'utf8m64',
   'port' => '',
   'database' => '',
   'engine' => 'MyISAM',
