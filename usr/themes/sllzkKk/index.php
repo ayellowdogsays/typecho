@@ -15,7 +15,7 @@
     <link rel="alternate" href="/atom.xml" title="十年老狗" type="application/atom+xml">
   
 
-  <link rel="stylesheet" href="/main.css?v=1.29.1">
+  <link rel="stylesheet" href="https://my.ayellowdogsays.cn/main.css">
 
 
   
