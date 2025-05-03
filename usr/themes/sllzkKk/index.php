@@ -1,33 +1,8 @@
 
-/**
- * zhuti by stellar 轮播tu 好· ba?
- *
- * @package i
- * @author 阿黄说
- * @version 1.0
- * @link https://kuhehe.vip
- */
-
-
 
 <!DOCTYPE html><html lang="zh-CN" data-theme="light">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="hexo-theme" content="https://github.com/xaoxuu/hexo-theme-stellar/tree/1.29.1" theme-name="Stellar" theme-version="1.29.1">
-  
-  <meta name="generator" content="Hexo 7.3.0">
-  <meta http-equiv='x-dns-prefetch-control' content='on' />
-  
-  <meta name="renderer" content="webkit">
-  <meta name="force-rendering" content="webkit">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-  <meta name="HandheldFriendly" content="True" >
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000">
-  <meta name="theme-color" content="#f9fafb">
-  
+
   <title>十年老狗</title>
 
   
@@ -40,7 +15,7 @@
     <link rel="alternate" href="/atom.xml" title="十年老狗" type="application/atom+xml">
   
 
-  <link rel="stylesheet" href="/css/main.css?v=1.29.1">
+  <link rel="stylesheet" href="/main.css?v=1.29.1">
 
 
   
