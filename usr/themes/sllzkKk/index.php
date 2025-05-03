@@ -1,4 +1,4 @@
-<?php
+
 /**
  * zhuti by stellar 轮播tu 好· ba?
  *
